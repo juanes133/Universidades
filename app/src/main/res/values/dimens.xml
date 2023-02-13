@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_width_image_fallback">250dp</dimen>
+    <dimen name="size_heigth_image_fallback">250dp</dimen>
+    <dimen name="message_fallback_error">20sp</dimen>
+</resources>
